@@ -5,6 +5,8 @@
 
 ![Laércio GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandesmelo&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesmelo)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que estou estudando  📚
 
 <div style="display: inline-block"><br/>
