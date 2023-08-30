@@ -3,6 +3,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
 <br>
+
 - 🔭 Atualmente estou trabalhando no projeto [Prato na Mesa](https://github.com/fernandesmelo/projeto-integrador-etepd)
 
 - 🌱 Estou aprendendo **JavaScript, React e React Native**
