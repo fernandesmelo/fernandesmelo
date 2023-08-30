@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
 
 
-- 🔭 Atualmente estou trabalhando no projeto [Cardápio 4.0 do Refeitório Estudantil](https://github.com/fernandesmelo/projeto-integrador-etepd)
+- 🔭 Atualmente estou trabalhando no projeto [Prato na Mesa](https://github.com/fernandesmelo/projeto-integrador-etepd)
 
 - 🌱 Estou aprendendo **JavaScript, React e React Native**
 
