@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/fernandesmelo/fernandesmelo/assets/113717317/0472e703-5e85-4d41-b038-22a4a2f23644" alt="Sua imagem" />
+</p>
+
 <h1 align="center">Oi, meu nome é Laércio Fernandes!</h1>
 <h3 align="center">Desenvolvedor Web pelo programa de Estágio Aceleradora Ágil e estudante de Desenvolvimento de Sistemas.</h3>
 <br>
