@@ -14,7 +14,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/fernandesmelo](https://github.com/fernandesmelo)
 
-- 📫 Como chegar até mim **laerciofernandesmelonetoo@gmail.com**
+- 📫 Como chegar até mim https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-front-end/](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-front-end/)
 
