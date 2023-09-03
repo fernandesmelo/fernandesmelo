@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fernandesmelo/fernandesmelo/assets/113717317/0472e703-5e85-4d41-b038-22a4a2f23644" alt="Sua imagem" />
+  <img src="https://github.com/fernandesmelo/fernandesmelo/assets/113717317/27cdddc1-951e-4158-bc34-e78845e92835" alt="Sua imagem" />
 </p>
 
 <h1 align="center">Oi, meu nome é Laércio Fernandes!</h1>
