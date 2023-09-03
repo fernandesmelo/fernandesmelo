@@ -32,9 +32,6 @@
 
 <h2 align="left">Conecte-se Comigo</h2>
 <div style="display: inline-block"><br/>
-  <a href="https://github.com/fernandesmelo">
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/laerciofernandesmelo/">
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
