@@ -8,6 +8,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
 <br>
 
+<h2 align="left">Um Pouco Sobre Mim</h2>
+<p>📍 Recife - PE</p>
+<p>👤 25 Anos</p>
+
+📚 Cursando Técnico em Desenvolvimento de Sistemas pela [Escola Técnica Estadual Porto Digital - ETEPD](https://www.linkedin.com/in/ete-porto-digital-0645021a2/)
+
+👨🏾‍💻 Desenvolvedor Web pelo programa de estágio [Aceleradora Ágil](https://www.linkedin.com/school/aceleradora-%C3%A1gil/)
+
 <h2 align="left">Entre em Contato</h2>
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
