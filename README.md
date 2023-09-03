@@ -21,7 +21,7 @@
   <a href="https://mail.google.com/mail/?view=cm&to=laerciofernandesmelonetoo@gmail.com" target="_blank">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://seu-link-do-Telegram-aqui">
+  <a href="tg://resolve?domain=@LaercioFernandesMelo">
     <img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://seu-link-do-WhatsApp-aqui">
