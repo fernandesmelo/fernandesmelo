@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Oi, meu nome é Laércio Fernandes!</h1>
-<h3 align="center">Desenvolvedor Web pelo programa de Estágio Aceleradora Ágil e estudante de Desenvolvimento de Sistemas.</h3>
+<h3 align="center">"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda." - Mário Sergio Cortella</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
 <br>
@@ -36,3 +36,8 @@
   </div>
 </div>
 
+<div align="center">
+  <a href="https://github.com/fernandesmelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucciah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucciah&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
