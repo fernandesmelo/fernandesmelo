@@ -12,7 +12,7 @@
 <p>📍 Recife - PE</p>
 <p>👤 25 Anos</p>
 
-📚 Cursando Superior em Análise e Desenvolvimento de Sistemas pela [Faculdade Senac Pernambuco(https://faculdadesenacpe.edu.br/#)
+📚 Cursando Superior em Análise e Desenvolvimento de Sistemas pela [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/#)
 
 👨🏾‍💻 Desenvolvedor Web pelo programa [Aceleradora Ágil](https://www.linkedin.com/school/aceleradora-%C3%A1gil/)
 
