@@ -8,13 +8,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
 <br>
 
-<h2 align="left">Um Pouco Sobre Mim</h2>
+<h2 align="left">Um pouco sobre mim:</h2>
 <p>📍 Recife - PE</p>
 <p>👤 27 Anos</p>
 
 📚 Cursando Superior em Análise e Desenvolvimento de Sistemas 3/5 pela [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/#)
 
-<h2 align="left">Entre em Contato</h2>
+<h2 align="left">Entre em contato:</h2>
 <div style="display: inline-block"><br/>
   <a href="https://mail.google.com/mail/?view=cm&to=laerciofernandesmelonetoo@gmail.com" target="_blank">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -27,7 +27,7 @@
   </a>
 </div><br/>
 
-<h2 align="left">Conecte-se Comigo</h2>
+<h2 align="left">Conecte-se comigo:</h2>
 <div style="display: inline-block"><br/>
   <a href="https://www.instagram.com/laerciofernandesmelo/">
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
