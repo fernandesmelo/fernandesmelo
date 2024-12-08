@@ -10,11 +10,9 @@
 
 <h2 align="left">Um Pouco Sobre Mim</h2>
 <p>📍 Recife - PE</p>
-<p>👤 26 Anos</p>
+<p>👤 27 Anos</p>
 
 📚 Cursando Superior em Análise e Desenvolvimento de Sistemas 3/5 pela [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/#)
-
-👨🏾‍💻 Desenvolvedor Web pelo programa [Aceleradora Ágil](https://www.linkedin.com/school/aceleradora-%C3%A1gil/)
 
 <h2 align="left">Entre em Contato</h2>
 <div style="display: inline-block"><br/>
