@@ -11,7 +11,8 @@
 <h2 align="left">Um pouco sobre mim:</h2>
 <p>📍 Recife - PE</p>
 <p>👤 27 Anos</p>
-<p>📚 Cursando Superior em Análise e Desenvolvimento de Sistemas 3/5 pela [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/#)</p>
+
+📚 Cursando Superior em Análise e Desenvolvimento de Sistemas 3/5 na [Faculdade Senac Pernambuco](https://faculdadesenacpe.edu.br/#)
 
 <h2 align="left">Entre em contato:</h2>
 <div style="display: inline-block"><br/>
