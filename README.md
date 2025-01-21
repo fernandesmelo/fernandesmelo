@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Oi, meu nome é Laércio Fernandes!</h1>
-<h3 align="center">"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda." - Mário Sergio Cortella</h3>
+<h3 align="center">Sou formado em Técnico de Desenvolvimento de Sistemas pela Escola Técnica Estadual Porto Digital. Atualmente, sou estudante de Desenvolvimento de Software, cursando o 3º período do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco, onde pude iniciar a Residência Tecnológica do Porto Digital. Também estou me especializando como Desenvolvedor Web Fullstack pela DevMedia estudando HTML, CSS, JavaScript, React, API RESTful, SQL e MySQL.</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
 <br>
