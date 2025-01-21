@@ -67,8 +67,4 @@
 <br/>
 <br/>
 
-<div align="center">
-  <a href="https://github.com/fernandesmelo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandesmelo&show_icons=true&locale=en&layout=compact" alt="fernandesmelo" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandesmelo&show_icons=true&locale=en" alt="fernandesmelo" />
-</div>
+
